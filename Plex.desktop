@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Name=Plex
+Type=Application
+Exec=firefox --kiosk --new-window "https://app.plex.tv/desktop/#!"
+Icon=/usr/share/flex-launcher/assets/icons/plex.png
+# Type=Link
+# URL=https://app.plex.tv/desktop/#!
+# Icon=mate-fs-bookmark
